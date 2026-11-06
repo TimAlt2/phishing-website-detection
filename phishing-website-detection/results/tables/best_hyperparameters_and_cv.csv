@@ -1,5 +1,0 @@
-Model,Best CV F1,CV F1 standard deviation,Best parameters,CV folds
-Logistic Regression,0.9138387090415057,0.010019572339137263,"{'model__C': 1.0, 'model__solver': 'lbfgs'}",5
-Decision Tree,0.9218020976684169,0.007281504350151588,"{'criterion': 'entropy', 'max_depth': 10, 'min_samples_leaf': 5, 'min_samples_split': 2}",5
-Random Forest,0.9437862854373691,0.007944424882436898,"{'max_depth': 20, 'max_features': 'sqrt', 'min_samples_leaf': 1, 'n_estimators': 200}",5
-SVM,0.9365145747052701,0.011094683654701128,"{'model__C': 10.0, 'model__gamma': 'scale'}",5
