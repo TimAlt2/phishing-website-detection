@@ -1,0 +1,2 @@
+Training records,Testing records,Training phishing percentage,Testing phishing percentage,Shared feature groups,Method
+8839,2216,44.30365425953162,44.314079422382676,0,StratifiedGroupKFold; first of five outer folds
